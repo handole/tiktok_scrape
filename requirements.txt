@@ -1,0 +1,4 @@
+TikTokApi
+pandas
+fastapi
+uvicorn
